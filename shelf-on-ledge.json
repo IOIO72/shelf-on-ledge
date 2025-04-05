@@ -1,0 +1,20 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "LED Lamp back": {
+            "additional_left_ledge_length": "0",
+            "additional_left_shelf_length": "60",
+            "additional_right_ledge_length": "0",
+            "additional_right_shelf_length": "0",
+            "ledge_depth": "21.5",
+            "ledge_height": "30",
+            "ledge_length": "130",
+            "ledge_wall_thickness": "1.5",
+            "offset_depth": "-8",
+            "offset_length": "0",
+            "shelf_depth": "49.999999999899998",
+            "shelf_length": "150",
+            "shelf_thickness": "2"
+        }
+    }
+}
